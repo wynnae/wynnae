@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @wynnae
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning how to create web pages in python!
+- 💞️ I’m looking to collaborate on how to make full stack data science applications.
+- 📫 How to reach me: Email | wynnabigale@gmail.com 
